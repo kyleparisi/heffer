@@ -1,0 +1,18 @@
+{
+    "name": "kyleparisi/heffer",
+    "description": "Uplaod image collections, convert them to PNGs",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Kyle Parisi",
+            "email": "kyleparisi@gmail.com"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php": "^3.20",
+        "stojg/crop": "^1.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.7"
+    }
+}
